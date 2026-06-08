@@ -1,4 +1,4 @@
-#!/home/liamdn/my-fisrt-ai-agent/bin/python3
+#!/home/liamdn/my-fisrt-ai-agent/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
